@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3RwMTk2LXBvcnBsYS1iYWNrZ3JvdW5kLTA0LXguanBn.jpg") ;
+    
+  
+}
+.box{
+    margin-left:30px;
+    margin-top: 250px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size:30px;
+    /* margin-right: 100px; */
+
+}
+#box1{
+    margin-right:50px;
+    font-size: 50px;
+    text-align: center;
+}
+#getStarteBin{
+    height: 70px;
+    width: 100px;
+    background-color:rgb(183, 114, 248);
+    border: none;
+    border-radius: 10px;
+    padding:5px 10px ;
+    margin-left: 650px;
+    border: 2px solid black;
+ }
+ #h3{
+    margin-left: 500px;
+    margin-top: -40px;
+    font-size: 40px;
+    
+ }
+ .contant{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+ }
+ #name{
+    height:100px;
+    width: 200px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 1px;
+    margin-top: -100px;
+    font-size: 25px;
+
+ }
